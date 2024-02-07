@@ -1,5 +1,5 @@
 ## 💫 About me:
-🧑‍💻 Hi! I'm Yichen, an aspiring software engineer.<br><br>📐 With a background in architecture, I'm a creative problem solver and collaborator.<br><br>🌱 I’m currently learning **Python** and **AWS Cloud Practioner**.<br><br>💬 Reach me at: yichehnc@gmail.com [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yichen-cao-87981a124/) <br><br>🧗‍♀️ I find joy in the great outdoors, solving boulder problems with a passion for adventure.
+🧑‍💻 Hi! I'm Yichen, a software engineer in Melbourne.<br><br>📐 With a background in Architecture, I'm a creative problem solver and collaborator.<br><br>🌱 I’m currently learning **Python** and **AWS Cloud Practioner**.<br><br>💬 Reach me at: yichehnc@gmail.com [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yichen-cao-87981a124/) <br><br>🧗‍♀️ I find joy in the great outdoors, solving boulder problems with a passion for adventure.
 
 
 ## 🌐 Socials:
