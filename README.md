@@ -1,6 +1,5 @@
 ## 💫 About me:
-🧑‍💻 Hi! I'm Yichen, a software engineer in Melbourne.<br><br>📐 With a background in Architecture, I'm a creative problem solver and collaborator.<br><br>🌱 I’m currently learning **Python** and **AWS Cloud Practioner**.<br><br>💬 Reach me at:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yichen-cao-87981a124/) <br><br>🧗‍♀️ I find joy in the great outdoors, solving boulder problems with a passion for adventure.
-
+🧑‍💻 Hi! I'm Yichen, a Product Designer working in a HealthTech startup.<br><br>📐 With a background in Architecture, I'm a creative problem solver and natural collaborator.<br><br>🌱 Currently enjoy learning **AI/Vibe coding** and **UX/UI Best Practice**.<br><br>💬 Reach me at:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yichen-cao-87981a124/) <br><br>🧗‍♀️ Outside work, I find joy in the outdoors, rock climbing, hiking with a passion for Jiu Jitsu.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yichen-cao-87981a124/) 
