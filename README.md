@@ -1,5 +1,5 @@
 ## 💫 About me:
-🧑‍💻 Hi! I'm Yichen, a Product Designer in a **HealthTech startup** and MLAI NGO.<br><br>📐 With a background/degree in M.Arch, I'm a creative technologist and collaborator.<br><br>🌱 Currently working with **AI, Vibe coding** and **UX/UI Product Design**.<br><br>💬 Reach me at:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yichen-cao-87981a124/) <br><br>🧗‍♀️ Outside work, I find joy in the outdoors, rock climbing, hiking, with greate passion for Jiu Jitsu.
+🧑‍💻 Hi! I'm Yichen, a Product Designer in a **HealthTech startup** and **MLAI**.<br><br>📐 With a background/degree in **M.Arch**, I'm a creative technologist and collaborator.<br><br>🌱 Currently working with **AI, Vibe coding** and **UX/UI Product Design**.<br><br>💬 Know my experiences and Reach me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yichen-cao-87981a124/) <br><br>🧗‍♀️ Outside work, I find joy in the outdoors, rock climbing, hiking, with greate passion for **Jiu Jitsu**.
 
 ## 🌐 Code Life Balance
 <img width="896" height="896" alt="octocatworkinghard" src="https://github.com/user-attachments/assets/5e768269-1211-43a4-909c-f16014df5ee2" />
